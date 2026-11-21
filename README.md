@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="lease-clause-extractor" width="100%"></p>
+
 # lease-clause-extractor
 
 A lease is a long document, but the few terms a property team needs every month are a handful of dates, amounts and notice periods. This repo reads plain text lease files and pulls out the commencement and expiration dates, monthly rent, security deposit, annual increase and notice periods using regular expressions, and says plainly when a term is not found.
